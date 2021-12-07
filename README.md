@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12175594523&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12175594523&cover_image=true&theme=default&bar_color=4e59b1)](https://github.com/kittinan/spotify-github-profile)
 <br/>
