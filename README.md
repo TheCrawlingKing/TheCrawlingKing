@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Now Playing 🎧
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12175594523&cover_image=true&theme=default&bar_color=684eb1)](https://github.com/kittinan/spotify-github-profile)
 <svg width="320" height="{{height}}" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="cardTitle" role="img">
   <title id="cardTitle">Now playing on Spotify</title>
   <foreignObject width="320" height="{{height}}">
